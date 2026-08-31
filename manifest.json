@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-31T18:03:44Z",
+  "updatedAt": "2026-08-31T18:27:21Z",
   "connectors": [
     {
       "id": "github",
@@ -11,9 +11,9 @@
       "iconURL": "https://raw.githubusercontent.com/TryRuruApp/plugins/main/icons/github.svg",
       "iconSF": "chevron.left.forwardslash.chevron.right",
       "downloadURL": "https://raw.githubusercontent.com/TryRuruApp/plugins/main/bundles/GitHubConnector.bundle.zip",
-      "sha256": "3fe662af39c7655c0c0d7bf85fcc74c130f6b22e9d50e3d073625e4f6c3a2fa2",
+      "sha256": "2a13f137b2ae4fc4435e25c26a7f7536732571af56ed08c6aa4efcffed0b6209",
       "minRuruVersion": "1.0.0",
-      "sizeBytes": 525832
+      "sizeBytes": 306367
     },    {
       "id": "linear",
       "name": "Linear",
@@ -23,9 +23,9 @@
       "iconURL": "https://raw.githubusercontent.com/TryRuruApp/plugins/main/icons/linear.svg",
       "iconSF": "line.3.horizontal.decrease.circle",
       "downloadURL": "https://raw.githubusercontent.com/TryRuruApp/plugins/main/bundles/LinearConnector.bundle.zip",
-      "sha256": "3bb5870bb5edde582ba3ca0dfb2fb125de5838a5a7dd0ceb386e4043dfa84712",
+      "sha256": "c63009046471d2eb353b9ab17ad68fc6ffc09e0de2078ba1027baa8b587835b3",
       "minRuruVersion": "1.0.0",
-      "sizeBytes": 357151
+      "sizeBytes": 134960
     },    {
       "id": "applecalendar",
       "name": "Apple Calendar",
@@ -35,9 +35,9 @@
       "iconURL": "https://raw.githubusercontent.com/TryRuruApp/plugins/main/icons/applecalendar.svg",
       "iconSF": "calendar",
       "downloadURL": "https://raw.githubusercontent.com/TryRuruApp/plugins/main/bundles/AppleCalendarConnector.bundle.zip",
-      "sha256": "0eeaf9e54cef76838c1348eaf0acda46b25845ddd7bb2f835ea2e0f4be96a2fa",
+      "sha256": "695591476bb5f9fec9d0a3cb350105897d1d8c36fe75bcb01d483636e9782cd2",
       "minRuruVersion": "1.0.0",
-      "sizeBytes": 398375
+      "sizeBytes": 172687
     },    {
       "id": "applenotes",
       "name": "Apple Notes",
@@ -47,9 +47,9 @@
       "iconURL": "https://raw.githubusercontent.com/TryRuruApp/plugins/main/icons/applenotes.svg",
       "iconSF": "note.text",
       "downloadURL": "https://raw.githubusercontent.com/TryRuruApp/plugins/main/bundles/AppleNotesConnector.bundle.zip",
-      "sha256": "2b7c7baf699e0e91c802496c493cce0c6fd4fa9b3feb283cf0ee7e668584886d",
+      "sha256": "eb4c84b0fb31fade295b51dac6b76af6ad2888f35a5aaec6572b9ec1113d1b1e",
       "minRuruVersion": "1.0.0",
-      "sizeBytes": 305011
+      "sizeBytes": 73221
     }
   ]
 }
