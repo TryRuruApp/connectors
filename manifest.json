@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-31T17:30:59Z",
+  "updatedAt": "2026-08-31T17:38:28Z",
   "connectors": [
     {
       "id": "github",
@@ -8,10 +8,10 @@
       "version": "1.0.0",
       "summary": "Read issues, PRs, and search code across your GitHub repositories.",
       "mentionToken": "github",
-      "iconURL": "https://raw.githubusercontent.com/TryRuruApp/connectors/main/icons/github.svg",
+      "iconURL": "https://raw.githubusercontent.com/TryRuruApp/plugins/main/icons/github.svg",
       "iconSF": "chevron.left.forwardslash.chevron.right",
-      "downloadURL": "https://raw.githubusercontent.com/TryRuruApp/connectors/main/bundles/GitHubConnector.bundle.zip",
-      "sha256": "0d0f84df6e836dec90a5d1e60480f4a124701cf785b22848b372d660f76c5cf4",
+      "downloadURL": "https://raw.githubusercontent.com/TryRuruApp/plugins/main/bundles/GitHubConnector.bundle.zip",
+      "sha256": "bdfbc7dc057ab361dd156d3999d09e252c29f52fd58245ddaa1f3cfa910b79ca",
       "minRuruVersion": "1.0.0",
       "sizeBytes": 525832
     },    {
@@ -20,10 +20,10 @@
       "version": "1.0.0",
       "summary": "Access Linear issues, projects, and active cycles.",
       "mentionToken": "linear",
-      "iconURL": "https://raw.githubusercontent.com/TryRuruApp/connectors/main/icons/linear.svg",
+      "iconURL": "https://raw.githubusercontent.com/TryRuruApp/plugins/main/icons/linear.svg",
       "iconSF": "line.3.horizontal.decrease.circle",
-      "downloadURL": "https://raw.githubusercontent.com/TryRuruApp/connectors/main/bundles/LinearConnector.bundle.zip",
-      "sha256": "b135a6083a28c08c93bd05936f17900f450f4d84d120eb7bfdef91ba61cc4a77",
+      "downloadURL": "https://raw.githubusercontent.com/TryRuruApp/plugins/main/bundles/LinearConnector.bundle.zip",
+      "sha256": "90e1cf2c391a0e3959f5d155afe3f1f08e82bcd9bcf4df50b8d34a34b64a9ae1",
       "minRuruVersion": "1.0.0",
       "sizeBytes": 357151
     },    {
@@ -32,10 +32,10 @@
       "version": "1.0.0",
       "summary": "Read events, search schedule, and create calendar entries via EventKit.",
       "mentionToken": "applecalendar",
-      "iconURL": "https://raw.githubusercontent.com/TryRuruApp/connectors/main/icons/applecalendar.svg",
+      "iconURL": "https://raw.githubusercontent.com/TryRuruApp/plugins/main/icons/applecalendar.svg",
       "iconSF": "calendar",
-      "downloadURL": "https://raw.githubusercontent.com/TryRuruApp/connectors/main/bundles/AppleCalendarConnector.bundle.zip",
-      "sha256": "b34ea9b5c1a6527e6cbf7b594c57916d6d6f6e643b320fd4227c0d6ac6a4f7b6",
+      "downloadURL": "https://raw.githubusercontent.com/TryRuruApp/plugins/main/bundles/AppleCalendarConnector.bundle.zip",
+      "sha256": "880cf5e2045ae2fc3f2b87b50caba86a8dac91aea083241a52e899600854efc0",
       "minRuruVersion": "1.0.0",
       "sizeBytes": 398375
     }

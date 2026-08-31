@@ -1,4 +1,4 @@
-# Ruru Connectors Repository
+# Ruru Plugins Repository
 
 Official dynamic connector plugins for [Ruru](https://github.com/TryRuruApp).
 
