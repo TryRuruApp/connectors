@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-31T17:38:28Z",
+  "updatedAt": "2026-08-31T18:03:44Z",
   "connectors": [
     {
       "id": "github",
@@ -11,7 +11,7 @@
       "iconURL": "https://raw.githubusercontent.com/TryRuruApp/plugins/main/icons/github.svg",
       "iconSF": "chevron.left.forwardslash.chevron.right",
       "downloadURL": "https://raw.githubusercontent.com/TryRuruApp/plugins/main/bundles/GitHubConnector.bundle.zip",
-      "sha256": "bdfbc7dc057ab361dd156d3999d09e252c29f52fd58245ddaa1f3cfa910b79ca",
+      "sha256": "3fe662af39c7655c0c0d7bf85fcc74c130f6b22e9d50e3d073625e4f6c3a2fa2",
       "minRuruVersion": "1.0.0",
       "sizeBytes": 525832
     },    {
@@ -23,7 +23,7 @@
       "iconURL": "https://raw.githubusercontent.com/TryRuruApp/plugins/main/icons/linear.svg",
       "iconSF": "line.3.horizontal.decrease.circle",
       "downloadURL": "https://raw.githubusercontent.com/TryRuruApp/plugins/main/bundles/LinearConnector.bundle.zip",
-      "sha256": "90e1cf2c391a0e3959f5d155afe3f1f08e82bcd9bcf4df50b8d34a34b64a9ae1",
+      "sha256": "3bb5870bb5edde582ba3ca0dfb2fb125de5838a5a7dd0ceb386e4043dfa84712",
       "minRuruVersion": "1.0.0",
       "sizeBytes": 357151
     },    {
@@ -31,13 +31,25 @@
       "name": "Apple Calendar",
       "version": "1.0.0",
       "summary": "Read events, search schedule, and create calendar entries via EventKit.",
-      "mentionToken": "applecalendar",
+      "mentionToken": "calendar",
       "iconURL": "https://raw.githubusercontent.com/TryRuruApp/plugins/main/icons/applecalendar.svg",
       "iconSF": "calendar",
       "downloadURL": "https://raw.githubusercontent.com/TryRuruApp/plugins/main/bundles/AppleCalendarConnector.bundle.zip",
-      "sha256": "880cf5e2045ae2fc3f2b87b50caba86a8dac91aea083241a52e899600854efc0",
+      "sha256": "0eeaf9e54cef76838c1348eaf0acda46b25845ddd7bb2f835ea2e0f4be96a2fa",
       "minRuruVersion": "1.0.0",
       "sizeBytes": 398375
+    },    {
+      "id": "applenotes",
+      "name": "Apple Notes",
+      "version": "1.0.0",
+      "summary": "Search, read, and create notes from macOS Apple Notes.",
+      "mentionToken": "notes",
+      "iconURL": "https://raw.githubusercontent.com/TryRuruApp/plugins/main/icons/applenotes.svg",
+      "iconSF": "note.text",
+      "downloadURL": "https://raw.githubusercontent.com/TryRuruApp/plugins/main/bundles/AppleNotesConnector.bundle.zip",
+      "sha256": "2b7c7baf699e0e91c802496c493cce0c6fd4fa9b3feb283cf0ee7e668584886d",
+      "minRuruVersion": "1.0.0",
+      "sizeBytes": 305011
     }
   ]
 }
