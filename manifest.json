@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-31T12:38:04Z",
+  "updatedAt": "2026-08-31T12:51:31Z",
   "connectors": [
     {
       "id": "github",
@@ -9,7 +9,7 @@
       "summary": "Read issues, PRs, and search code across your GitHub repositories.",
       "mentionToken": "github",
       "downloadURL": "https://raw.githubusercontent.com/TryRuruApp/connectors/main/bundles/GitHubConnector.bundle.zip",
-      "sha256": "bba380474ac85e9d70a431ca9ba7cfcd3460d5eba4d2fa5f23f6fadd9b1f2bd6",
+      "sha256": "a2f44eb1c6b3a932a5367c562ed421bad7f69498a6b16f6326eaeb970c7c7e11",
       "minRuruVersion": "1.0.0",
       "sizeBytes": 525832
     },    {
@@ -19,9 +19,9 @@
       "summary": "Access Linear issues, projects, and active cycles.",
       "mentionToken": "linear",
       "downloadURL": "https://raw.githubusercontent.com/TryRuruApp/connectors/main/bundles/LinearConnector.bundle.zip",
-      "sha256": "b28010883631eb47bac5180a2efc322123d04b1230e6312b069e4cc4dbfa7415",
+      "sha256": "df20775bc7bb6d3abb3272fcc21f5003ebbea7447e21ff917af38547d1b4470f",
       "minRuruVersion": "1.0.0",
-      "sizeBytes": 357150
+      "sizeBytes": 357151
     },    {
       "id": "applecalendar",
       "name": "Apple Calendar",
@@ -29,7 +29,7 @@
       "summary": "Read events, search schedule, and create calendar entries via EventKit.",
       "mentionToken": "applecalendar",
       "downloadURL": "https://raw.githubusercontent.com/TryRuruApp/connectors/main/bundles/AppleCalendarConnector.bundle.zip",
-      "sha256": "23e74c2c77b622afbea8a94d3d0af82b381505bb622bd259ab36eab07902c770",
+      "sha256": "00a94509721c2e1b4d34000b7502ebfd7f71d7437dd4bfc948852086eef710d0",
       "minRuruVersion": "1.0.0",
       "sizeBytes": 398375
     }
