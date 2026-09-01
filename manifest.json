@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-01T02:59:54Z",
+  "updatedAt": "2026-09-01T03:15:52Z",
   "connectors": [
     {
       "id": "github",
@@ -11,7 +11,7 @@
       "iconURL": "https://raw.githubusercontent.com/TryRuruApp/plugins/main/icons/github.svg",
       "iconSF": "chevron.left.forwardslash.chevron.right",
       "downloadURL": "https://raw.githubusercontent.com/TryRuruApp/plugins/main/bundles/GitHubConnector.bundle.zip",
-      "sha256": "5083622ea70f21bd2f189f1298cc67263e678819ee2e0b5044f18259f874deeb",
+      "sha256": "705f5c05fa5291689493a9354fe3a452bf05102c13092aeb2c1f43ae284bbbf3",
       "minRuruVersion": "1.0.0",
       "sizeBytes": 306415
     },    {
@@ -23,7 +23,7 @@
       "iconURL": "https://raw.githubusercontent.com/TryRuruApp/plugins/main/icons/linear.svg",
       "iconSF": "line.3.horizontal.decrease.circle",
       "downloadURL": "https://raw.githubusercontent.com/TryRuruApp/plugins/main/bundles/LinearConnector.bundle.zip",
-      "sha256": "e8dff0f523621a28d18d98898e019353c0cf7b8ae68314b05e187a3990a52b88",
+      "sha256": "6a4ada450ca9ed43192bbb00cfda0284a80f08484a6428d1021e3fa2e6ace65c",
       "minRuruVersion": "1.0.0",
       "sizeBytes": 135192
     },    {
@@ -35,7 +35,7 @@
       "iconURL": "https://raw.githubusercontent.com/TryRuruApp/plugins/main/icons/applecalendar.svg",
       "iconSF": "calendar",
       "downloadURL": "https://raw.githubusercontent.com/TryRuruApp/plugins/main/bundles/AppleCalendarConnector.bundle.zip",
-      "sha256": "42b73020187e3dd0b374c2f01763dadb51df4d54bdb91c965a5a09925f92c706",
+      "sha256": "14a61461311fdeed938751aa765ce2c7a0e4936053d3f267bffb32ad634659d0",
       "minRuruVersion": "1.0.0",
       "sizeBytes": 172771
     },    {
@@ -47,9 +47,9 @@
       "iconURL": "https://raw.githubusercontent.com/TryRuruApp/plugins/main/icons/applenotes.svg",
       "iconSF": "note.text",
       "downloadURL": "https://raw.githubusercontent.com/TryRuruApp/plugins/main/bundles/AppleNotesConnector.bundle.zip",
-      "sha256": "b52e69983695553b2a70717c74d4a6566db241e4887cb216c472f500cc6dbbe1",
+      "sha256": "38953bf4679aa8315703f5363a9b9c94bde93353046183b3d5cbf33f251b8d03",
       "minRuruVersion": "1.0.0",
-      "sizeBytes": 156172
+      "sizeBytes": 163903
     }
   ]
 }
